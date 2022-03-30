@@ -1,0 +1,3 @@
+C:/Users/polma/OneDrive/Pulpit/Informatyka/fibb/cmake-build-debug/CMakeFiles/fibb.dir
+C:/Users/polma/OneDrive/Pulpit/Informatyka/fibb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/polma/OneDrive/Pulpit/Informatyka/fibb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
